@@ -1,0 +1,22 @@
+{
+  "name": "storacha-dapp",
+  "version": "1.0.0",
+  "description": "Storacha Mini DApp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Wasim",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@storacha/client": "^1.8.12",
+    "files-from-path": "^1.1.4"
+  },
+  "devDependencies": {
+    "vite": "^7.2.0"
+  }
+}
